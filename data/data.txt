@@ -1,0 +1,6 @@
+Brand,Kategori,Seri,Skala
+Hotwheels,Zamac,2020,1:64
+Hotwheels,Fantasy,2020,1:64
+Greenlight,Mopar,2020,1:32
+TSMmodel,Pandem,2019,1:64
+Majorette,Nissan,2018,1:64
